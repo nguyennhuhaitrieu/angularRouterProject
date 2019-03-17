@@ -1,3 +1,6 @@
+# Install Code 
+- Sau khi clone code về : npm install 
+
 # AngularRouterProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
